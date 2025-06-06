@@ -52,9 +52,9 @@
   <section id="contacto">
     <h2>✉️ Contáctanos</h2>
     <form>
-      <label>Nombre: <input type="text" required /></label><br />
-      <label>Email: <input type="email" required /></label><br />
-      <label>Mensaje:<br /><textarea required></textarea></label><br />
+      <label>Nombre: <input type="text" required /></label><br /> jorge alejandro ortiz gonzalez
+      <label>Email: <input type="email" required /></label><br /> ayertevi242@gmail.com
+      <label>Mensaje:<br /><textarea required></textarea></label><br /> 311 249 0200
       <button type="submit">Enviar</button>
     </form>
   </section>
